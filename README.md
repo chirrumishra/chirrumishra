@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
 
 <!--
 **chirrumishra/chirrumishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=chirrumishra&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=chirrumishra&show_icons=true&theme=dark" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=chirrumishra&theme=dark" alt="Stats" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrumishra&layout=compact&theme=dark&show)
 </p>
 
 ### Languages and Tools:
@@ -70,8 +71,5 @@
 </code>](https://developer.apple.com/macos/)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=chirrumishra&color=green)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrumishra&layout=compact&theme=dark&show)
