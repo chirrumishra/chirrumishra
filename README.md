@@ -1,4 +1,4 @@
-<p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
+<p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=chirrumishra" alt="chirrumishra" /></p>
 
 <!--
 **chirrumishra/chirrumishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
