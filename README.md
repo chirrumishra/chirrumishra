@@ -15,7 +15,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=chirrumishra&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=chirrumishra&show_icons=true&theme=dark" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=chirrumishra&theme=dark" alt="Stats" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrumishra&layout=compact&theme=dark&show)
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirrumishra&layout=compact&theme=dark&show alt="Stats" />
 </p>
 
 ### Languages and Tools:
