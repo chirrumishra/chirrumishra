@@ -2,18 +2,14 @@
 
 <!--
 **chirrumishra/chirrumishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Hi there, I'm Chiranjeev Mishra aka chirrumishra 👋
+
+- 🔭 I’m currently working on my own improvements
+- 🌱 I’m currently learning iOS Development , Cyber Security and a lot ...
+- 👯 I’m looking to collaborate on Open source projects
+- ⚡ Fun fact: I've been coding for 7 years as of now (2021)
+
 
 
 ### Languages and Tools:
@@ -72,8 +68,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=chirrumishra&color=green)
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirrumishra&theme=dark&show_icons=true)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chirrumishra&repo=Proximity-Covid-19&theme=dark&show) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chirrumishra&repo=Route-NetCom&theme=dark&show)
+![CHIRRU's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirrumishra&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirrumishra&layout=compact&theme=dark&show)
