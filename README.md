@@ -5,10 +5,10 @@
 -->
 ### Hi there, I'm Chiranjeev Mishra aka chirrumishra 👋
 
-- 🔭 I’m currently working on my own improvements
-- 🌱 I’m currently learning iOS Development , Cyber Security and a lot ...
-- 👯 I’m looking to collaborate on Open source projects
-- ⚡ Fun fact: I've been coding for 7 years as of now (2021)
+- I’m currently working on my own improvements
+- I’m currently learning iOS Development , Cyber Security and a lot ...
+- I’m looking to collaborate on Open source projects
+- Fun fact: I've been coding for 7 years as of now (2021)
 
 <h2 align="center">Stats: </h2>
 <p align="center"> 
