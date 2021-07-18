@@ -21,7 +21,7 @@
 ### Languages and Tools:
 
 [<code>
-<img alt="iOS Dev" width="26px" src="https://img.icons8.com/ios-filled/240/000000/mac-os.png">
+<img alt="iOS Dev" width="26px" src="https://img.icons8.com/color/240/000000/mac-os--v2.png">
 </code>](https://apple.com/)
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
